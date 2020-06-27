@@ -1,0 +1,3 @@
+HTML - hypertext markup language, engine
+CSS - cascading style sheet, design
+JavaScript - animation

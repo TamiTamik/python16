@@ -1,0 +1,47 @@
+body{
+    margin: 2
+}
+
+ul{
+    background-color: #42f572;
+    margin-top: 0;
+    list-style: none;
+}
+
+li{
+    display: inline;
+    padding: 8px;
+}
+
+a{
+    color: #346beb;
+}
+
+#div1{
+    background-color: #06c498;
+}
+
+#div2{
+    background-color: #18856b;
+}
+
+button{
+    background-color: #154026;
+}
+
+.btn{
+    margin: 8px;
+    border: none;
+    padding: 8px;
+    border-radius: 2px;
+}
+
+.btn-1{
+    background-color: #cf6c11;
+}
+
+.btn-2{
+    background-color: #c78410;
+}
+/*bootstrap - fast*/
+/*UIkit - quality, animation*/
